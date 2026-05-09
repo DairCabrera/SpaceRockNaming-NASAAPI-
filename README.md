@@ -1,5 +1,3 @@
-# PHP Starter
+Space Rock Naming (NASA API)
 
-Quickly get started with [PHP](https://www.php.net/) using this starter! PHP is a popular general-purpose scripting language that is especially suited to web development.
-
-This starter starts a PHP web server on [localhost:8080](http://localhost:8080).
+-Due to lack of time over the month as to ongoing familial isues - very basic - non-functioning
